@@ -1,0 +1,6 @@
+{
+  "title": ["Hello!", "Perfect!"],
+  "description": ["Create your own test using the button below. It will take less than three minutes.", "Test is created! Share it with your friends."],
+  "img_url": ["https://vk.app-dich.com/static/emojies/waving_hand.png", "https://vk.app-dich.com/static/emojies/ok_hand.png"],
+  "action": ["Create test", "Share"]
+}

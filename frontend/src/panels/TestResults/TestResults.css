@@ -1,0 +1,44 @@
+.score-panel {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+
+.score {
+    border-radius: 17px;
+    min-height: 41px;
+    max-height: 41px;
+}
+
+.score.medium {
+    background-color: rgba(243, 143, 86, .2);
+    color: rgb(243, 143, 86);
+}
+
+.score.low {
+    background-color: rgba(239, 106, 106, .2);
+    color: rgb(239, 106, 106);
+}
+
+.score.high {
+    background-color: rgba(120, 202, 71, .2);
+    color: rgb(120, 202, 71);
+}
+
+.go-back {
+    background-color: transparent;
+    color: rgb(169, 164, 161);
+    margin-left: auto;
+    border-radius: 17px;
+    min-height: 41px;
+    max-height: 41px;
+}
+
+.score-text {
+    min-width: 50px;
+    padding: 10px;
+    line-height: 21px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+}

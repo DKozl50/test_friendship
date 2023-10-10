@@ -1,0 +1,62 @@
+.checked-answer-block {
+    width: 100%;
+    padding: 0 0 24px;
+}
+
+.checked-answer-img {
+    margin-right: 1rem;
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    align-items: center;
+    -webkit-box-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.checked-answer-text {
+    display: flex;
+    justify-content: center;
+}
+
+.results-wrapper {
+    padding: 20px;
+    margin-bottom: 12px;
+}
+
+.checked-answer-question {
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0 0 8px;
+}
+
+.correct-answer {
+    display: flex;
+    align-items: center;
+}
+
+.correct-answer>h5 {
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.correct>.checked-answer-img {
+    background-color: rgba(120, 202, 71, .2);
+}
+
+.wrong>.checked-answer-img {
+    background-color: rgba(239, 106, 106, .2);
+}
+
+.correct>h5 {
+    color: rgb(120, 202, 71);
+}
+
+.wrong>h5 {
+    color: rgb(239, 106, 106);
+}
+
+.correct-answer>h5 {
+    margin: 0;
+}

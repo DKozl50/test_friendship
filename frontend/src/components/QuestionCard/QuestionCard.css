@@ -1,0 +1,20 @@
+.question-card {
+    height: 322px !important;
+    max-width: 327px;
+    border-radius: 25px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.question-card__in {
+    color:black;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    padding: 16px;
+}

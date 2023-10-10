@@ -1,0 +1,19 @@
+.navigation-container {
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+    gap: 74px;
+}
+
+.slide__in {
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    cursor: grab;
+    /*margin-left: 20px;*/
+}
+
+.carousel-container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}

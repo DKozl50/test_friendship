@@ -1,0 +1,63 @@
+.answer {
+    padding: 0 1.5rem 1.5rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 16px;
+}
+
+.answer__input {
+    margin: 0;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    box-shadow: none;
+    outline: 0;
+    -webkit-appearance: none;
+    appearance: none;
+    text-overflow: ellipsis;
+    height: 44px;
+    line-height: 19px;
+    font-size: 16px;
+    color: var(--tg-theme-text-color);
+    padding: 12px;
+    position: relative;
+    z-index: 2;
+    background: 0 0;
+    border-radius: 15px;
+    border: 0.5px solid var(--tg-theme-hint-color);
+}
+
+.answer__input:focus {
+    border: 0.5px solid var(--tg-theme-button-color);
+}
+
+.answer__checkbox {
+    flex-shrink: 0;
+    appearance: none;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: 1px solid var(--tg-theme-hint-color);
+    transition: all .2s ease;
+    cursor: pointer;;
+}
+.answer__checkbox:hover {
+    border: 1px solid var(--tg-theme-button-color);
+}
+.answer__checkbox:checked {
+    background: var(--tg-theme-button-color);
+    border: 1px solid var(--tg-theme-button-color);
+}
+
+.answer__img {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    width: 70px;
+    flex-shrink: 0;
+    border-radius: 62px;
+    border: 1.04478px dashed var(--tg-theme-hint-color);
+}

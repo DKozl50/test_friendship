@@ -1,0 +1,6 @@
+.screen-spinner {
+    margin-top: 12px;
+    color: var(--tg-theme-hint-color);
+    display: flex;
+    justify-content: center;
+}

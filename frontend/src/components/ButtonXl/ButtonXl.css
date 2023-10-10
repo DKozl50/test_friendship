@@ -1,0 +1,26 @@
+.button-xl {
+    line-height: 19px !important;
+    color: var(--tg-theme-button-text-color);
+    background-color: var(--tg-theme-button-color);
+    height: 50px;
+    border-radius: 20px;
+    padding: 0 16px;
+    border: 0;
+    cursor: pointer;
+}
+.button-xl.stretched {
+    width: 100%;
+}
+
+.button-xl:active {
+    opacity: 0.6 !important;
+}
+
+.button-xl__content {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    font-weight: 500;
+    padding: 11px;
+}

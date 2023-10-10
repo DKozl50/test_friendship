@@ -1,0 +1,33 @@
+.statistics-label {
+    margin-top: 12px;
+    padding: 12px 15px;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(203, 203, 203);
+}
+
+.no-results-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.no-results-inner {
+    text-align: center;
+    box-sizing: border-box;
+    padding: 48px 32px;
+    color: var(--tg-theme-text-color);
+}
+
+.no-results-inner>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.no-results-inner>h4 {
+    color: var(--tg-theme-text-color);
+    line-height: 19px;
+    font-weight: 500;
+}

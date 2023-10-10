@@ -50,5 +50,4 @@ For the minimal configuration, the following settings need to be changed in the 
 ## Documentation
 Our code is completely documented so you can easily figure it out. The api is fully described in `openapi.yaml` file, you can also view it [here](https://pipeweb.ru:3000/static/openapi_doc.html) (created with Redoc).
 
- - Frontend documentation
  - Backend documentation can be found in BACKEND.md

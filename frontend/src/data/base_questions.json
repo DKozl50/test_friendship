@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "text": "What does $name like more",
+    "question_type": "choose2",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Spicy food",
+        "icon": "https://emojigraph.org/media/apple/hot-face_1f975.png"
+      },
+      {
+        "id": 2,
+        "text": "Sweet treats",
+        "icon": "https://emojigraph.org/media/apple/tooth_1f9b7.png"
+      }
+    ],
+    "correct_answer_id": 1
+  },
+  {
+    "id": 2,
+    "text": "What food does $name like more",
+    "question_type": "choose2",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Pizza",
+        "icon": "https://emojigraph.org/media/apple/pizza_1f355.png"
+      },
+      {
+        "id": 2,
+        "text": "Tacos",
+        "icon": "https://emojigraph.org/media/apple/taco_1f32e.png"
+      }
+    ],
+    "correct_answer_id": 1
+  },
+  {
+    "id": 3,
+    "text": "What movie would $name watch",
+    "question_type": "choose2",
+    "answers": [
+      {
+        "id": 1,
+        "text": "King Kong",
+        "icon": "https://emojigraph.org/media/apple/gorilla_1f98d.png"
+      },
+      {
+        "id": 2,
+        "text": "Rocky",
+        "icon": "https://emojigraph.org/media/apple/men-wrestling_1f93c-200d-2642-fe0f.png"
+      }
+    ],
+    "correct_answer_id": 1
+  },
+  {
+    "id": 4,
+    "text": "Where would $name rather be",
+    "question_type": "choose2",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Sleeping late",
+        "icon": "https://emojigraph.org/media/apple/desert-island_1f3dd-fe0f.png"
+      },
+      {
+        "id": 2,
+        "text": "Early mornings",
+        "icon": "https://emojigraph.org/media/apple/snow-capped-mountain_1f3d4-fe0f.png"
+      }
+    ],
+    "correct_answer_id": 1
+  },
+  {
+    "id": 5,
+    "text": "What does $name prefer",
+    "question_type": "choose2",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Sleeping late",
+        "icon": "https://emojigraph.org/media/apple/owl_1f989.png"
+      },
+      {
+        "id": 2,
+        "text": "Early mornings",
+        "icon": "https://emojigraph.org/media/apple/sunflower_1f33b.png"
+      }
+    ],
+    "correct_answer_id": 1
+  },
+  {
+    "id": 6,
+    "text": "What hobby does $name enjoy more",
+    "question_type": "choose2",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Painting",
+        "icon": "https://emojigraph.org/media/apple/woman-artist_1f469-200d-1f3a8.png"
+      },
+      {
+        "id": 2,
+        "text": "Dancing",
+        "icon": "https://emojigraph.org/media/apple/man-dancing-dark-skin-tone_1f57a-1f3ff.png"
+      }
+    ],
+    "correct_answer_id": 1
+  },
+  {
+    "id": 7,
+    "text": "Where would $name travel to",
+    "question_type": "choose2",
+    "answers": [
+      {
+        "id": 1,
+        "text": "England",
+        "icon": "https://emojigraph.org/media/apple/guard_1f482.png"
+      },
+      {
+        "id": 2,
+        "text": "Japan",
+        "icon": "https://emojigraph.org/media/apple/ninja_1f977.png"
+      }
+    ],
+    "correct_answer_id": 1
+  },
+  {
+    "id": 8,
+    "text": "What games does $name like more",
+    "question_type": "choose2",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Puzzle games",
+        "icon": "https://emojigraph.org/media/apple/brain_1f9e0.png"
+      },
+      {
+        "id": 2,
+        "text": "Action games",
+        "icon": "https://emojigraph.org/media/apple/flexed-biceps_1f4aa.png"
+      }
+    ],
+    "correct_answer_id": 1
+  },
+  {
+    "id":9,
+    "text": "What would $name choose",
+    "question_type": "choose2",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Sport",
+        "icon": "https://emojigraph.org/media/apple/person-lifting-weights_1f3cb-fe0f.png"
+      },
+      {
+        "id": 2,
+        "text": "Meditation",
+        "icon": "https://emojigraph.org/media/apple/person-in-lotus-position_1f9d8.png"
+      }
+    ],
+    "correct_answer_id": 1
+  },
+  {
+    "id": 10,
+    "text": "What hobby does $name enjoy",
+    "question_type": "choose2",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Climbing",
+        "icon": "https://emojigraph.org/media/apple/person-climbing_1f9d7.png"
+      },
+      {
+        "id": 2,
+        "text": "Swimming",
+        "icon": "https://emojigraph.org/media/apple/person-swimming_1f3ca.png"
+      }
+    ],
+    "correct_answer_id": 1
+  }
+]
